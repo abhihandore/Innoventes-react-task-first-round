@@ -1,0 +1,16 @@
+.input {
+  min-height: 40px;
+  padding: 0 10px;
+}
+.inputLabel {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-right: 0.625rem;
+  min-width: 100px;
+  text-align: left;
+}
+.loginBtn {
+  background-color: #0072ce;
+  color: #fff;
+}
